@@ -265,6 +265,6 @@
 
 欢迎转载，转载请标明来源出处，谢谢~~
 
-作者：凌枫 Email：colinlets@gmail.com
+转载来自：凌枫 Email：colinlets@gmail.com
 
 链接：https://github.com/colinlet/PHP-Interview-QA
